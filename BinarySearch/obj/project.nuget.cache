@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZMXkdu27c0WQRQjz2MQpAzGWxa495u0Gc1n5r65RTJAqEQnt1xnt+E4po2nUBdpQFrFxy4n37L1g547UrPB49A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessi\\Desktop\\Alexandre\\Algorithms\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jessi\\.nuget\\packages\\autobogus\\2.13.1\\autobogus.2.13.1.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
