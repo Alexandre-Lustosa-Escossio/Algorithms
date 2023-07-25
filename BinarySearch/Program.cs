@@ -15,6 +15,9 @@ public class Algo
 {
     public static long? BynarySearch(long number, List<long> list)
     {
+        string complexity = "O(log n)";
+        double MaximumSteps = Math.Log2(list.Count - 1);
+
         Console.WriteLine("Array: " + string.Join(", ", list));
         Console.WriteLine("Correct number: " + number);
 
